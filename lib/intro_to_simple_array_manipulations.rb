@@ -41,6 +41,14 @@ def using_delete(array,string)
 end
 
 
+def using_concat(array)
+  array.concat(array)
+end
+
+
+def using_insert(array)
+  array.insert(element)
+end
 
 
 
