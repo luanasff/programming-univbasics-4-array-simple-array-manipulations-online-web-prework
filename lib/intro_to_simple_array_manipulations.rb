@@ -26,8 +26,8 @@ def shift_with_args(array)
 end
 
 
-def using_insert(array,element)
-  array.insert(element[4])
+def using_insert(array)
+  array.insert(element)
 end
 
 
