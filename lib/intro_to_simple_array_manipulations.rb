@@ -51,6 +51,6 @@ def using_insert(array, element)
 end
 
 def using_delete_at(array,integer)
-  array.delete(1,integer)
+  array.delete_at(1,integer)
 end
 
