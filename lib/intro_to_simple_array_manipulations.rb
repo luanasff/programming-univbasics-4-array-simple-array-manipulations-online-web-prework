@@ -26,10 +26,6 @@ def shift_with_args(array)
 end
 
 
-def using_insert(array)
-  array.insert(element)
-end
-
 
 def using_uniq(array)
   array.uniq 
